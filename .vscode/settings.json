@@ -1,6 +1,0 @@
-{
-  "python.defaultInterpreterPath": "/Users/janisharali/miniforge3/envs/ai/bin/python", // add your own local python path
-  "notebook.output.textLineLimit": 500,
-  "notebook.lineNumbers": "on",
-  "python.analysis.extraPaths": ["${workspaceFolder}/src"]
-}
